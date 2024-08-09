@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning. Here's a little bit about me:
 
 ## 💫 About Me:
-🌟 About Me<br>🎓 Education: I recently graduated in May 2024 from The University of Houston, where I majored in Computer Science and minored in Mathematics. With a strong foundation in problem-solving and analytical thinking, I'm actively seeking an exciting full-time position as a Software Engineer to apply my skills and drive innovative solutions.<br>🌍 Location: I'm based in the city of Houston, Texas<br>📫 Contact: You can reach me at vietpham0624@gmail.com or connect with me on LinkedIn.<br>🌱 Currently Learning: I'm improving my skills in React and eager to learn React Native.
+Education: I recently graduated in May 2024 from The University of Houston, where I majored in Computer Science and minored in Mathematics. With a strong foundation in problem-solving and analytical thinking, I'm actively seeking an exciting full-time position as a Software Engineer to apply my skills and drive innovative solutions.<br>🌍 Location: I'm based in the city of Houston, Texas<br>📫 Contact: You can reach me at vietpham0624@gmail.com or connect with me on LinkedIn.<br>🌱 Currently Learning: I'm improving my skills in React and eager to learn React Native.
 
 
 # 💻 Tech Stack:
