@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Viet Pham
+# 👋 Hello! I'm Viet
 Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning. Here's a little bit about me:
 
 # 💫 About Me:
