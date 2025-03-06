@@ -1,3 +1,5 @@
+![cozyoffice](https://github.com/user-attachments/assets/326f5ef5-8011-405c-9b03-092a22f8f12e)
+
 # 👋 Hello! I'm Viet
 Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning. Here's a little bit about me:
 
